@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Damage",
+  "base_artist": "Shota Shimizu",
+  "createdAt": "2025-12-02T11:45:34.780717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brain Damage",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Brain_Damage_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brain Damage",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Brain_Damage_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Damage",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/03_Damage_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Damage Done",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/04_Damage_Done_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Damage Done (Instrumental)",
+      "artist": "Moderat",
+      "has_synced": true,
+      "path": "select/05_Damage_Done_(Instrumental)_Moderat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Damage, Inc.",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/06_Damage,_Inc._Metallica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dino Damage",
+      "artist": "Miniature Tigers",
+      "has_synced": true,
+      "path": "select/07_Dino_Damage_Miniature_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "United States Of Eurasia [+Collateral Damage]",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/08_United_States_Of_Eurasia_[+Collateral_Damage]_Muse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "United States Of Eurasia (+Collateral Damage)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/09_United_States_Of_Eurasia_(+Collateral_Damage)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Bomb (Phones Collateral Damage mix)",
+      "artist": "New Young Pony Club",
+      "has_synced": false,
+      "path": "select/10_The_Bomb_(Phones_Collateral_Damage_mix)_New_Young_Pony_Club.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Needle And The Damage Done",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/11_The_Needle_And_The_Damage_Done_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Needle and the Damage Done - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/12_The_Needle_and_the_Damage_Done_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Damage",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": false,
+      "path": "select/13_Damage_Ol’_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Damage (feat. GZA)",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": false,
+      "path": "select/14_Damage_(feat._GZA)_Ol'_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do The Damage",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/15_Do_The_Damage_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do the Damage",
+      "artist": "Noel Gallagher’s High Flying Birds",
+      "has_synced": true,
+      "path": "select/16_Do_the_Damage_Noel_Gallagher’s_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Psychic Love Damage",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/17_Psychic_Love_Damage_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let the Damage Begin (Live 2007)",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/18_Let_the_Damage_Begin_(Live_2007)_The_Verve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Damage",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_01_Damage_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Damage",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_02_Damage_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Damage",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_03_Damage_清水_翔太.txt"
+    }
+  ]
+}
